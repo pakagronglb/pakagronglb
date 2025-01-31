@@ -59,16 +59,6 @@ I'm a **self-taught Fullstack Developer** from Thailand 🇹🇭. In just **4 mo
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
 </div>
 
----
-
-## 🐍 Watch the Snake Game Crawl Through My Contributions!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 ## 🌐 Connect With Me  
 
 📧 Email: pakagronglebel@gmail.com
