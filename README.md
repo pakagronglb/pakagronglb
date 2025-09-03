@@ -1,7 +1,5 @@
 # Hi there, I'm Pakagrong! 👋  
 
-![twitter-banner](https://github.com/user-attachments/assets/b5a913d3-5d11-4691-8056-f101c280aba7)
-
 
 ## 👩🏻‍💻 About Me  
 I'm a **self-taught Fullstack Developer** from Thailand 🇹🇭. In just **4 months**, I immersed myself in the world of web development and built skills to create dynamic and functional applications. I love crafting beautiful user experiences and solving real-world problems through code.  
