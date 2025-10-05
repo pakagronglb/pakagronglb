@@ -2,7 +2,7 @@
 
 
 ## 👩🏻‍💻 About Me  
-I'm a **self-taught Fullstack Developer** from Thailand 🇹🇭. In just **4 months**, I immersed myself in the world of web development and built skills to create dynamic and functional applications. I love crafting beautiful user experiences and solving real-world problems through code.  
+Guess what! I became full-stack dev. But thats just the beginning. Let's add some spice to it. How about cybersecurity? Bring them all the domains muhahaha
 
 ---
 
